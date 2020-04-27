@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98e023d1-7094-4292-a428-44a4a7f25ecd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7o6hxgB70IUHg87slzpmmKn64" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.PrinterTest.canPrint">
+    <configuration name="PrinterTest.canPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="canPrint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterTest.cantPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="cantPrint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterTest.hasSheets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="hasSheets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterBottleTest.canEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="METHOD_NAME" value="canEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterBottleTest.canFill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab_Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="METHOD_NAME" value="canFill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrinterTest.canPrint" />
+        <item itemvalue="JUnit.PrinterTest.cantPrint" />
+        <item itemvalue="JUnit.PrinterTest.hasSheets" />
+        <item itemvalue="JUnit.WaterBottleTest.canFill" />
+        <item itemvalue="JUnit.WaterBottleTest.canEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e023d1-7094-4292-a428-44a4a7f25ecd" name="Default Changelist" comment="" />
+      <created>1587992319555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587992319555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom" timestamp="1588001061341">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1440.812@-1440.23.1440.877" timestamp="1588001061341" />
+    <state width="1358" height="224" key="GridCell.Tab.0.center" timestamp="1588001061337">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1440.812@-1440.23.1440.877" timestamp="1588001061337" />
+    <state width="1358" height="224" key="GridCell.Tab.0.left" timestamp="1588001061336">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1440.812@-1440.23.1440.877" timestamp="1588001061336" />
+    <state width="1358" height="224" key="GridCell.Tab.0.right" timestamp="1588001061338">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1440.812@-1440.23.1440.877" timestamp="1588001061338" />
+    <state x="-934" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587993536837">
+      <screen x="-1440" y="23" width="1440" height="877" />
+    </state>
+    <state x="-934" y="138" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1440.23.1440.877/0.23.1440.812@-1440.23.1440.877" timestamp="1587993536837" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Printer.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
