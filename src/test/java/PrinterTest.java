@@ -9,7 +9,8 @@ public class PrinterTest {
 
     @Before
     public void before() {
-        printer = new Printer(20);
+        printer = new Printer(20, 100);
+
     }
 
     @Test
@@ -17,15 +18,44 @@ public class PrinterTest {
         assertEquals(20, printer.getSheets());
     }
 
+//    @Test
+//    public void canPrint(){
+//        printer.printCopies(1, 1);
+//      assertEquals(2, printer.getSheets());
+//    }
+//
+//    @Test
+//    public void cantPrint(){
+//        printer.printCopies(20, 5);
+//        assertEquals(20, printer.getSheets());
+//    }
+
     @Test
-    public void canPrint(){
-        printer.printCopies(1, 1);
-      assertEquals(2, printer.getSheets());
+    public void willPrint(){
+        printer.print(8,2);
+        assertEquals(4, printer.getSheets());
     }
 
     @Test
-    public void cantPrint(){
-        printer.printCopies(20, 5);
+    public void wontPrint(){
+        printer.print(7, 3);
         assertEquals(20, printer.getSheets());
+    }
+
+    @Test
+    public void hasToner(){
+        assertEquals(100, printer.getToner());
+    }
+
+    @Test
+    public void enoughToner(){
+        printer.print(10, 2);
+        assertEquals(80, printer.getToner());
+    }
+
+    @Test
+    public void notEnoughToner(){
+        printer.print(10, 11);
+        assertEquals(100, printer.getToner());
     }
 }
